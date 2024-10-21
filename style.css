@@ -1,0 +1,145 @@
+header {
+    background-color: #000000; 
+    color: #ffffff; 
+}
+
+header a {
+    color: #ffffff;
+}
+
+.hero {
+    background-color: #333333; 
+    color: #ffffff; 
+}
+
+.hero .button {
+    background-color: #00a8ff; 
+    color: #ffffff; 
+}
+
+.features {
+    background-color: #f4f4f4; 
+    color: #000000; 
+}
+
+.team {
+    background-color: #f4f4f4; 
+    color: #000000; 
+}
+
+footer {
+     background-color: #000000; 
+    color: #ffffff; 
+}
+footer .footer-logo span {
+    color: #00a8ff; 
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #333; 
+}
+.header-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    color: #fff;
+    text-align: center;
+}
+.btn-order {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+}
+.section-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+}
+.subsection-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #333;
+}
+.description-text {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #666;
+}
+.team-member-name {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #333;
+}
+
+.team-member-role {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #666;
+}
+.footer-contact {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #999;
+    text-align: center;
+}
+.logo-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #007bff;
+}
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.5;
+}
+
+.header__title {
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.header__button {
+    font-size: 16px;
+    padding: 10px 20px;
+}
+
+.services__title {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.services__item-description {
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+.team__title {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.team__member-name {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.team__member-role {
+    font-size: 16px;
+    color: #666;
+}
